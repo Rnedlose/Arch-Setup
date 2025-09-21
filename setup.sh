@@ -79,6 +79,7 @@ yay -S --noconfirm \
   swww \
   swaync \
   localsend \
+  github-cli \
   sunsetr-bin
 
 echo "All packages have been installed successfully!"
